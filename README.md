@@ -5,7 +5,7 @@ Our program consists of a group of smart contracts, which automatically interact
 - `Swaper.sol` Contract responsible for swapping MATIC for ChainLink token. All automation of our software is done using tools supported by ChainLink Labs. Before starting any process, we need ChainLink Token.
 - `APIConsumer.sol` Contract responsible for interviewing Kenny West, and returning us an epic quote, hehe.
 - `VRF.sol` Contract responsible for requesting some random numbers using ChainLink VRF, with those numbers, `Minter.sol` contract creates a unique SVG.
-- `Minter.sol` Contract responsible for minting and storing the entire collection of NFTs.
+- `Minter.sol` Contract responsible for minting and storing the entire collection of NFTs. A ideia era usar Filecoin para armazenamento.
 -  `Automation.sol` Main contract responsible for automating the entire process and storing profits after creating them.
 
 ## ☕ Using Automation
@@ -37,7 +37,8 @@ However, several steps are followed automatically during creation:
 The project is still under development and the next updates will focus on the following tasks:
 
 - [x] Contracts - Fully Automated
-- [ ] Transactions - Gas Optimization
+- [ ] Storage - Filecoin
+
 
 ## 📫 Contributing to Automation
 
