@@ -57,7 +57,7 @@ The main idea was always to use ChainLink Automation, but in May of this year I 
 For this hackathon, I used this same project as a starting point (just the idea of a random SVG).
 
 The version of the application that is in this repository is very simple, just to make the video.
-The complete project, which was also developed during this hackathon, is available at: https://github.com/brunovjk/vjkNFT
+The complete project is available only on Goerli for now, but I have plans to move everything to Polygon, was also developed during this hackathon, is available at: https://github.com/brunovjk/vjkNFT
 Feel free to use and analyze any code, everything is open.
 
 [⬆ Back to top](#Automation)<br>
