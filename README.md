@@ -58,6 +58,6 @@ For this hackathon, I used this same project as a starting point (just the idea 
 
 The version of the application that is in this repository is very simple, just to make the video.
 The complete project is available only on Goerli for now, but I have plans to move everything to Polygon, was also developed during this hackathon, is available at: https://github.com/brunovjk/vjkNFT
-Feel free to use and analyze any code, everything is open.
+Feel free to use and analyze any code, everything is open source.
 
 [⬆ Back to top](#Automation)<br>
