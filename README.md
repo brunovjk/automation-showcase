@@ -56,7 +56,7 @@ Alternatively, see the GitHub documentation at [how to create a pull request](ht
 The main idea was always to use ChainLink Automation, but in May of this year I started to learn blockchain, and I followed a class from Patrick Collins teaching how to create a random SVG NFT collection. At the time I managed to do it, but it wasn't enough, actually React did most of the work, I didn't know about ChainLink Automation.
 For this hackathon, I used this same project as a starting point (just the idea of a random SVG).
 
-The version of the application that is in this repository is very simple, just to make the video.
+The version of the application that is in this repository is very simple, just to work with Truflation and make the video.
 The complete project is available only on Goerli for now, but I have plans to move everything to Polygon, was also developed during this hackathon, is available at: https://github.com/brunovjk/vjkNFT
 Feel free to use and analyze any code, everything is open source.
 
