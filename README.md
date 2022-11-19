@@ -10,7 +10,7 @@ Our program consists of a group of smart contracts, which automatically interact
 
 ## ☕ Using Automation
 
-To interact with our application go to:
+To interact with our application, 0x7d07a2dbaa23DB0729B032E843D307FC69310D20, after go to:
 [automation-showcase web-app](https://automation-showcase.web.app).
 
 You can also clone this repository, change contracts in `smart_contracts` folder.
